@@ -5,9 +5,9 @@ roadmap.
 
 ## Current status
 
-The repository is still **empty and at the blueprint stage**. When asked to "help build the
+Milestone M0 provides a runnable FastAPI webhook backbone. When asked to "help build the
 system" without more specific instructions, start with the earliest unfinished milestone in
-the README roadmap (M0 through M4, in order).
+the README roadmap (currently M1) and continue in order.
 
 ## Working principles
 
